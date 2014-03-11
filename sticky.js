@@ -1,4 +1,4 @@
-angular.module('sticky', []).directive("sticky", function($window) {
+angular.module("sticky", []).directive("sticky", function($window) {
   return {
     link: function(scope, element, attrs) {
 
