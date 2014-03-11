@@ -1,5 +1,3 @@
-angular.module('sticky', []);
-
 angular.module('sticky', []).directive("sticky", function($window) {
   return {
     link: function(scope, element, attrs) {
