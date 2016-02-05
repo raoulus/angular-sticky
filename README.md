@@ -23,9 +23,4 @@ as a dependency. Use the directive as follows:
 
     <div sticky>I'm all sticky</div>
 
-To stop the page jumping when the element is fixed to the top of the screen a placeholder can be substituted
-for it as follows:
-
-    <div sticky use-placeholder>I'm all sticky</div>
-
 See the example directory for a working example.
